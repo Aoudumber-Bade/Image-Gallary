@@ -13,8 +13,8 @@ This project uses PHP and MySQL to create a dynamic image gallery. Follow these 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/Aoudumber-Bade/Image-Gallary.git
+   cd Image-Gallary
    ```
 
 2. **Import Database:**
